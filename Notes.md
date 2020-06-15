@@ -19,4 +19,6 @@ Questions for Voyant data set
     Example or zeroing in on a particular indivudual to nget more minute context
     Horrific military campaigns against Indigenous peoples
     A Scotsman Mcgillvary given prominence in the text
-    
+ Very much over my head with embedding the voyant iframe
+   Will leave link in as is and move on
+ I'm going to attempt to move on to next week, feel like I've totally hit a wall here and I'm rapidly running out of time (my own fault)
